@@ -7,7 +7,7 @@ package com.kalebe.controledegastos;
 
 /**
  *
- * @author aluno
+ * @author kalebe
  */
 public class Cliente {
 
